@@ -10,5 +10,9 @@ Showroom with a testdrive option
 ## Commands
 - /done => use when you finished with the test drive and still have X seconds on timer
 
+## Requirements
+- [Mythic Notify](https://github.com/JayMontana36/mythic_notify) but not compulsory you can change the notifications to whatever you want.
+
 ## Credits
 - [qalle](https://github.com/qalle-fivem/esx_carshowroom)
+- [mythic_notify](https://github.com/JayMontana36/mythic_notify)
