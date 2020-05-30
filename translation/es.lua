@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['es'] = {
   ['press_e'] = 'Presione ~INPUT_CONTEXT~ para abrir el menú',
   ['press_e_to_enter'] = 'Presione ~INPUT_CONTEXT~ para entrar',
   ['press_e_to_exit'] = 'Presione ~INPUT_CONTEXT~ para salir',
